@@ -1,6 +1,6 @@
 # Data Software Solutions
 
-Our focused areas of software delivery include:
+Focused areas of this software repository include:
 
  - Digital Transformation
 
