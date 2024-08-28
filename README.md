@@ -66,7 +66,7 @@ Technologies: Kong, Ambassador, and Traefik.
 No packages published
 Footer
 
-## RepositoryData Solutions Software 
+## Code Repository:
 
 - https://github.com/DataSolutionSoftware?tab=repositories
 
