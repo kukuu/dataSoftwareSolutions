@@ -24,7 +24,9 @@ Focused areas of this software repository include:
 
 - CI/CD/DevOps/DevSecOps
 
-- Consultancy
+- Role Based Access Control (RBAC)
+
+- Dgital Twin
 
 ## Our Integration Patterns
 
